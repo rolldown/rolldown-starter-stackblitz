@@ -1,7 +1,3 @@
 # rolldown-starter-stackblitz
 
-To install the wasm version of `rolldown`, you need to execute 
-
-```
-npm install --cpu=wasm
-```
+[https://stackblitz.com/github/rolldown-starter-stackblitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)
