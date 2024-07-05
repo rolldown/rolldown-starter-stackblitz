@@ -6,7 +6,7 @@
     "build": "rolldown -c ./rolldown.config.mjs"
   },
   "stackblitz": {
-    "installDependencies": true,
+    "installDependencies": false,
     "startCommand": "npm install --cpu=wasm && npm run build"
     },
   "dependencies": {
