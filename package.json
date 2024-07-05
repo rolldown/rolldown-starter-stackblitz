@@ -1,16 +1,14 @@
 {
   "name": "rolldown-starter",
-  "version": "1.0.0",
-  "description": "",
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "build": "rolldown -c ./rolldown.config.mjs"
   },
   "stackblitz": {
     "installDependencies": true,
-    "startCommand": "npm run build"
-  },
-  "license": "MIT",
+    "startCommand": "npm install --cpu=wasm && npm run build"
+    },
   "dependencies": {
     "rolldown": "^0.10.5"
   }
