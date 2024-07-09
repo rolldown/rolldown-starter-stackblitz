@@ -3,7 +3,7 @@
   "license": "MIT",
   "type": "module",
   "scripts": {
-    "build": "rolldown -c ./rolldown.config.mjs"
+    "build": "RD_LOG=error rolldown -c ./rolldown.config.mjs"
   },
   "stackblitz": {
     "installDependencies": false,
