@@ -7,7 +7,7 @@
   },
   "stackblitz": {
     "installDependencies": false,
-    "startCommand": "npm install --cpu=wasm32 && npm run build"
+    "startCommand": "pnpm install && pnpm build"
     },
   "dependencies": {
     "rolldown": "latest"
