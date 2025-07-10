@@ -10,6 +10,6 @@
     "startCommand": "pnpm install && pnpm build"
     },
   "dependencies": {
-    "rolldown": "npm:@rolldown/browser@latest"
+    "rolldown": "rolldown@latest"
   }
 }
