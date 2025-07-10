@@ -10,6 +10,6 @@
     "startCommand": "pnpm install && pnpm build"
     },
   "dependencies": {
-    "rolldown": "rolldown@latest"
+    "rolldown": "latest"
   }
 }
