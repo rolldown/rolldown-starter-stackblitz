@@ -8,8 +8,8 @@
   "stackblitz": {
     "installDependencies": false,
     "startCommand": "pnpm install && pnpm build"
-    },
+  },
   "dependencies": {
-    "rolldown": "latest"
+    "rolldown": "npm:@rolldown/browser@latest"
   }
 }
