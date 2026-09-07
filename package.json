@@ -2,7 +2,7 @@
   "name": "rolldown-starter",
   "license": "MIT",
   "type": "module",
-  "packageManager": "pnpm@11.3.0",
+  "packageManager": "pnpm@11.26.0",
   "scripts": {
     "build": "RD_LOG=error rolldown -c ./rolldown.config.mjs"
   },
